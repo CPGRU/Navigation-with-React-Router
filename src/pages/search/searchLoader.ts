@@ -24,3 +24,4 @@ export async function searchLoader({
         searchResults: results //professional projects: return an Object caontain results
     };                         //{searchResults: [{package1},{package2},{package3}...]}
   }
+  

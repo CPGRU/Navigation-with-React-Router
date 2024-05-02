@@ -1,4 +1,4 @@
-import { useLoaderData } from "react-router";
+import { useLoaderData } from "react-router-dom";
 import { SearchLoaderResult } from "./searchLoader";
 import PackageListItem from "../../components/PackageListItem";
 
